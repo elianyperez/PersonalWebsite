@@ -11,6 +11,14 @@ appearance:
   font: minimal
   font_size: L
 
+  # SEO
+
+  site_type: Person
+  local_business_type: ''
+  org_name: ''
+  description: ''
+  twitter: ''
+
 # Contact (edit or remove options as required)
 
 email: elianyperez@ufl.edu
@@ -19,8 +27,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Eliany_Perez_'
-
-# Site header
 
 # Site header
 
@@ -59,8 +65,18 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
+  publications:
+    date_format: January 2006
+    citation_style: apa
+  projects:
+    post_view: 2
+    publication_view: 2
+    talk_view: 2
+  breadcrumb:
+    page_types:
+      book: true
   comment:
     provider: ''
     disqus:
