@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eliany Perex
+title: Eliany Perez
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,7 +12,7 @@ role: 'Graduate Student'
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
-  url: "https://scannlab.psych.ufl.edu/graduate-students/"
+  url: https://scannlab.psych.ufl.edu/graduate-students/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include decision making, spatial navigation, aging, cognition, and fMRI.
