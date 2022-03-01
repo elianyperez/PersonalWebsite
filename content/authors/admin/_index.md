@@ -22,17 +22,20 @@ interests:
 - Cognition
 - fMRI
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+    - course: Post-Baccalaureate Research Experience Program
+      institution: Emory University
+      year: 2014
+    - course: BS in Psychology
+      institution: University of Florida
+      year: 2017
+    - course: BA in Anthropology
+      institution: University of Florida
+      year: 2017
+email: elianyperez@ufl.edu
+superuser: true
+highlight_name: false
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
