@@ -6,39 +6,47 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: custom
+  theme_night: custom
   font: minimal
   font_size: L
 
-  # SEO
+# SEO
 
-  site_type: Person
-  local_business_type: ''
-  org_name: ''
-  description: ''
-  twitter: ''
-
-# Contact (edit or remove options as required)
-
-email: elianyperez@ufl.edu
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Eliany_Perez_'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: false
+    align: r
+    show_logo: false
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
 
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
@@ -61,22 +69,12 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/elianyperez/PersonalWebsite'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
-  publications:
-    date_format: January 2006
-    citation_style: apa
-  projects:
-    post_view: 2
-    publication_view: 2
-    talk_view: 2
-  breadcrumb:
-    page_types:
-      book: true
   comment:
     provider: ''
     disqus:
