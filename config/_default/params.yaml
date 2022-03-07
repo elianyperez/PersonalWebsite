@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: 'Eliany_Perez_'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -31,17 +31,17 @@ marketing:
 
 header:
   navbar:
-    enable: false
-    align: r
-    show_logo: false
+    enable: true
+    align: l
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Eliany Perez. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,6 +53,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
@@ -69,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/elianyperez/PersonalWebsite'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle
@@ -94,12 +95,14 @@ features:
     api_key: ''
     zoom: 15
 
+# Extensions
+
 extensions:
   cms:
-    branch: main
+    branch: master
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true
   academicons:
-    enable: false
+    enable: true
