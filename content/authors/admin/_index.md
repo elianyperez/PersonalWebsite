@@ -4,10 +4,10 @@ role: Graduate student
 avatar_filename: avatar.jpg
 bio: I am a graduate student at the University of Florida.
 interests:
-  - SpatialNavigation
+  - spatial navigation
   - aging
   - fmri
-  - DecisionMaking
+  - decision making
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/Eliany_Perez_
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=Uijyt80AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/elianyperez
@@ -33,10 +33,10 @@ education:
   courses:
     - course: BS in Psychology
       institution: University of Florida
-      year: 2016
+      year: 2017
     - course: BA in Anthropology
       institution: University of Florida
-      year: 2016
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
