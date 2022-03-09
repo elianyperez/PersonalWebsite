@@ -25,7 +25,7 @@ date_format: Jan 2006
   - title: Graduate student
     company: Spatial Cognition and Navigational Neuroscience Lab
     company_url: 'https://scannlab.psych.ufl.edu/graduate-students/'
-    company_logo: '/images/SCANN.png'
+#    company_logo: '/images/SCANN.png'
     location: Florida
     date_start: '2020-08'
 #    date_end: ''
