@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -34,11 +34,7 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
-  background:
-  color: 'DarkGreen'
-      # Text color (true=light, false=dark, or remove for the dynamic theme color).
-  text_color_light: true
   spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding: ["20px", "0", "20px", "10px"]
+  padding: ["20px", "0", "20px", "30px"]
 ---
