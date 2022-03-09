@@ -91,4 +91,3 @@ extensions:
     enable: true
   academicons:
     enable: true
-    ai: true
