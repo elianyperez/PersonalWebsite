@@ -24,7 +24,7 @@ date_format: Jan 2006
 #experience:
   - title: Graduate student
     company: Spatial Cognition and Navigational Neuroscience Lab
-    company_url: 'https://scannlab.psych.ufl.edu/graduate-students/'
+#    company_url: 'https://scannlab.psych.ufl.edu/graduate-students/'
 #    company_logo: '/images/SCANN.png'
     location: Florida
     date_start: '2020-08'
@@ -38,7 +38,7 @@ date_format: Jan 2006
 
   - title: Lab Manager
     company: Social Cognitive and Affective Development Lab
-    company_url: 'https://ebnerlab.psych.ufl.edu/'
+#    company_url: 'https://ebnerlab.psych.ufl.edu/'
 #    company_logo: org-x
 #    location: California
     date_start: '2016-07'
