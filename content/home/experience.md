@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 #experience:
   - title: Graduate student
-    company: Spatial Cognition and Navigational Neuroscience Lab
-#    company_url: 'https://scannlab.psych.ufl.edu/graduate-students/'
-#    company_logo: '/images/SCANN.png'
-    location: Florida
-    date_start: '2020-08'
+    company: University of Florida
+    company_url: https://scannlab.psych.ufl.edu/graduate-students/
+#    company_logo: '/images/SCANN.'
+#    location: Florida
+#    date_start: '2021-08'
 #    date_end: ''
 #    description: |2-
 #        Responsibilities include:
@@ -36,12 +36,12 @@ date_format: Jan 2006
 #        * Modelling
 #        * Deploying
 
-  - title: Lab Manager
-    company: Social Cognitive and Affective Development Lab
-#    company_url: 'https://ebnerlab.psych.ufl.edu/'
+#  - title: Professor of Semiconductor Physics
+#    company: University X
+#    company_url: ''
 #    company_logo: org-x
 #    location: California
-    date_start: '2016-07'
+#    date_start: '2016-01-01'
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
 
