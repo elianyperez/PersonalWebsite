@@ -6,33 +6,18 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Earth
+  theme_night: Earth
+  font: Rose
   font_size: L
 
-# SEO
-
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: 'Eliany_Perez_'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -41,7 +26,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Eliany Perez. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -84,7 +69,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
