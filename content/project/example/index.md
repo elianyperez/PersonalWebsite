@@ -9,10 +9,10 @@ external_link: ""
 url_slides: ""
 title: Explore Exploit
 tags:
-  - spatialnavigation
-  - decisionmaking
-  - explore
-  - exploit
+  - Spatial Navigation
+  - Decision Making
+  - Explore
+  - Exploit
 links: []
 image:
   caption: ""
