@@ -34,7 +34,6 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
-design:
   background:
   color: 'DarkGreen'
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
