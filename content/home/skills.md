@@ -22,10 +22,7 @@ feature:
   icon_pack: fab
   name: R
 
-#- description: 100%
-  icon: fa-python
-  icon_pack: fas
-  name: python
+
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
