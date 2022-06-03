@@ -23,7 +23,7 @@ feature:
   name: R
 
 - description: ''
-  icon: fa-python
+  icon: <i class="fa-brands fa-python"></i>
   icon_pack: fas
   name: python
 
