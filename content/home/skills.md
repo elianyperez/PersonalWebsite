@@ -27,6 +27,11 @@ feature:
   icon_pack: fab
   name: python
 
+- description: ''
+  icon: github
+  icon_pack: fab
+  name: github
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
