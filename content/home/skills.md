@@ -22,7 +22,6 @@ feature:
   icon_pack: fab
   name: R
 
-
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
