@@ -23,8 +23,8 @@ feature:
   name: R
 
 - description: ''
-  icon: <i class="fa-brands fa-python"></i>
-  icon_pack: fas
+  icon: python
+  icon_pack: fab
   name: python
 
 # Uncomment to use emoji icons.
