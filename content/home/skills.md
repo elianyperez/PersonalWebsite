@@ -12,18 +12,20 @@ weight: 30
 title: Skills
 subtitle:
 
+
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+#- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
+
 #- description: 100%
-#  icon: chart-line
-#  icon_pack: fas
-#  name: Statistics
+  icon: fa-python
+  icon_pack: fas
+  name: python
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
