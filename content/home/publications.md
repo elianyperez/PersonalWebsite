@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Publications
 subtitle: ''
@@ -32,10 +32,10 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compact
   # Choose a listing view
   view: masonry
-  columns: '3'
+  columns: '1'
   spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
   padding: ["30px", "30px", "30px", "30px"]
