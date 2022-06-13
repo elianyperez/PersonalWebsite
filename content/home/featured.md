@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Featured Publications
+title: Featured
 subtitle: ""
 
 content:
@@ -36,5 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
+    # Choose a listing view
+    columns: '1'
   view: 2
 ---
