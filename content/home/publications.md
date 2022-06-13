@@ -33,6 +33,8 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
+  # Choose a listing view
+  view: masonry
   columns: '3'
   spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
