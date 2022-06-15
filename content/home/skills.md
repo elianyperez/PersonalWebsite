@@ -34,7 +34,7 @@ feature:
 
 - description: ''
   icon: linux
-  icon_pack: custom
+  icon_pack: linux-brands
   name: linux
 
 - description: ''
@@ -47,7 +47,7 @@ feature:
   icon_pack: fas
   name: Statistics
 
- 
+
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
