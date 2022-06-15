@@ -54,5 +54,5 @@ content:
   #    link: 'https://zoom.com'
 
 design:
-  columns: '2'
+  columns: '1'
 ---
