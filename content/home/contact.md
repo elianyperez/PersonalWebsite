@@ -16,13 +16,14 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: elianyp17@gmail.com
-  #  netlify:
+  email: elianyperez@ufl.edu
+  #form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#      captcha: false
 
   # Contact details (edit or remove options as required)
   email: elianyperez@ufl.edu

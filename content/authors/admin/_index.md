@@ -2,7 +2,7 @@
 title: Eliany Perez
 role: Graduate student
 avatar_filename: avatar.jpg
-bio: I am a graduate student in the department of psychology at the University of Florida working with Dr. Steven Weisberg. 
+bio: I am a graduate student in the department of psychology at the University of Florida working with Dr. Steven Weisberg.
 interests:
   - spatial navigation
   - aging
@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /elianyperez@ufl.edu
+    link: elianyperez@ufl.edu
   - icon: twitter
     icon_pack: ai
     link: https://twitter.com/Eliany_Perez_
