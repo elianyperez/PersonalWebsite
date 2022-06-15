@@ -32,6 +32,16 @@ feature:
   icon_pack: fab
   name: github
 
+- description: ''
+  icon: linux
+  icon_pack: fas
+  name: linux
+
+- description: ''
+  icon: head-side-brain
+  icon_pack: fab
+  name: fMRI Analysis
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
