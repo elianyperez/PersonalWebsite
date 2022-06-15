@@ -52,6 +52,10 @@ education:
 email: ""
 superuser: true
 highlight_name: true
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
 ---
 I am a first generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I am interested in examining cognitive declines associated with healthy and pathological aging. My main goal is to develop tools and interventions that can  help ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, I am conducting research on the intersection between individual differences in spatial navigation behavior and neural mechanisms of decision-making across the adult lifespan. I am using computational modeling, fMRI, and behavioral methods in an effort to achieve this goal.
 
