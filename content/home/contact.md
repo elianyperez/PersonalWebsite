@@ -17,10 +17,10 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
+      id: elianyp17@gmail.com
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
