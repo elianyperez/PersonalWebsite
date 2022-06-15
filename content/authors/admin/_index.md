@@ -32,13 +32,6 @@ organizations:
     url: https://neuroscience.ufl.edu/outreach/sfn-north-central-fl-chapter/
 education:
   courses:
-    - course:  MS in Psychology
-      institution:
-      With Dr. Steven M. Weisberg (Ph.D)
-      SCANN Lab
-      Department of psychology
-      University of Florida
-      year: 2020-present
     - course: BS in Psychology
       institution: University of Florida
       year: 2017
@@ -46,11 +39,7 @@ education:
       institution: University of Florida
       year: 2017
     - course: Post-baccalaureate
-      institution:
-      With Dr. Natalie C. Ebner (Ph.D)
-      Social cognitive and Affective development lab
-      Department of psychology
-      University of Florida
+      institution: University of Florida
       year: 2017-2020
 email: ""
 superuser: true
