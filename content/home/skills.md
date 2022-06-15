@@ -34,13 +34,18 @@ feature:
 
 - description: ''
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: linux
 
 - description: ''
-  icon: head-side-brain
+  icon: head side brain
   icon_pack: fab
   name: fMRI Analysis
+
+- description: ''
+  icon: chart line up
+  icon_pack: fab
+  name: Statistics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
