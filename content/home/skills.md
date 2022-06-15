@@ -33,17 +33,17 @@ feature:
   name: github
 
 - description: ''
-  icon: linux
+  icon: brands linux
   icon_pack: fab
   name: linux
 
 - description: ''
-  icon: head side brain
+  icon: solid brain
   icon_pack: fab
   name: fMRI Analysis
 
 - description: ''
-  icon: chart line up
+  icon: solid chart line up
   icon_pack: fab
   name: Statistics
 
