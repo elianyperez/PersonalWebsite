@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: elianyperez@ufl.edu
+    email: elianyperez@ufl.edu
   - icon: twitter
     icon_pack: ai
     link: https://twitter.com/Eliany_Perez_
