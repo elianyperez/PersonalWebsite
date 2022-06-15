@@ -28,6 +28,8 @@ social:
 organizations:
   - name: University of Florida
     url: https://www.ufl.edu/
+  - name: SCANN Lab
+    url: https://scannlab.psych.ufl.edu/graduate-students/
   - name: SfN NCF
     url: https://neuroscience.ufl.edu/outreach/sfn-north-central-fl-chapter/
 education:
@@ -44,6 +46,7 @@ education:
 email: ""
 superuser: true
 highlight_name: true
+columns: 1
 ---
 I am a first generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I am interested in examining cognitive declines associated with healthy and pathological aging. My main goal is to develop tools and interventions that can  help ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, I am conducting research on the intersection between individual differences in spatial navigation behavior and neural mechanisms of decision-making across the adult lifespan. I am using computational modeling, fMRI, and behavioral methods in an effort to achieve this goal.
 
