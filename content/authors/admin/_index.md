@@ -4,10 +4,11 @@ role: Graduate student
 avatar_filename: avatar.jpg
 bio: I am a graduate student in the department of psychology at the University of Florida working with Dr. Steven Weisberg.
 interests:
-  - spatial navigation
-  - aging
-  - fmri
-  - decision making
+  - Spatial navigation
+  - Aging
+  - fMRI
+  - Decision making
+  - Computational modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,16 +32,32 @@ organizations:
     url: https://neuroscience.ufl.edu/outreach/sfn-north-central-fl-chapter/
 education:
   courses:
+    - course:  MS in Psychology
+      institution:
+      With Dr. Steven M. Weisberg (Ph.D)
+      SCANN Lab
+      Department of psychology
+      University of Florida
+      year: 2020-present
     - course: BS in Psychology
       institution: University of Florida
       year: 2017
     - course: BA in Anthropology
       institution: University of Florida
       year: 2017
+    - course: Post-baccalaureate
+      institution:
+      With Dr. Natalie C. Ebner (Ph.D)
+      Social cognitive and Affective development lab
+      Department of psychology
+      University of Florida
+      year: 2017-2020
 email: ""
 superuser: true
 highlight_name: true
 ---
+I am a first generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I am interested in examining cognitive declines associated with healthy and pathological aging. My main goal is to develop tools and interventions that can  help ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, I am conducting research on the intersection between individual differences in spatial navigation behavior and neural mechanisms of decision-making across the adult lifespan. I am using computational modeling, fMRI, and behavioral methods in an effort to achieve this goal.
 
+As a member of the latinx/e community I am also passionate about conducting research on diverse populations as well as providing guidance and training for undergraduate students from minority and underrepresented groups.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
