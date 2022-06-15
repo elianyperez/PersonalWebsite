@@ -34,7 +34,7 @@ feature:
 
 - description: ''
   icon: linux
-  icon_pack: far
+  icon_pack: ai
   name: linux
 
 - description: ''
