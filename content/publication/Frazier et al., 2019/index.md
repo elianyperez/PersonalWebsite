@@ -27,7 +27,7 @@ abstract: "The aging of our population has been accompanied by increasing
   conclude with recommendations for future research based on CISDA's
   predictions, including implications for the development of interventions to
   enhance social decision outcomes in older adults."
-url_pdf: static/uploads/Frazier.pdf
+url_pdf: 'static/uploads/Frazier.pdf'
 draft: false
 featured: false
 image:
