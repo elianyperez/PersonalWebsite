@@ -33,12 +33,12 @@ feature:
   name: github
 
 - description: ''
-  icon: linux
+  icon: -linux
   icon_pack: fas
   name: linux
 
 - description: ''
-  icon: brain
+  icon: brain-circuit
   icon_pack: fas
   name: fMRI Analysis
 
