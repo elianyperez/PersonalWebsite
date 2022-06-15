@@ -34,7 +34,7 @@ feature:
 
 - description: ''
   icon: linux
-  icon_pack: linux-brands
+  icon_pack: brands
   name: linux
 
 - description: ''
