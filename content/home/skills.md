@@ -33,18 +33,18 @@ feature:
   name: github
 
 - description: ''
-  icon: brands linux
-  icon_pack: fab
+  icon: linux
+  icon_pack: fas
   name: linux
 
 - description: ''
-  icon: solid brain
-  icon_pack: fab
+  icon: brain
+  icon_pack: fas
   name: fMRI Analysis
 
 - description: ''
-  icon: solid chart line up
-  icon_pack: fab
+  icon: chart-line
+  icon_pack: fas
   name: Statistics
 
 # Uncomment to use emoji icons.
