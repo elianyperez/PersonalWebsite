@@ -62,3 +62,5 @@ I am a first generation graduate student in the Department of Psychology at the 
 As a member of the latinx/e community I am also passionate about conducting research on diverse populations as well as providing guidance and training for undergraduate students from minority and underrepresented backgrounds.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2e9355ac-5f6e-4b72-a84b-af1fd8a67e9a"></div>
