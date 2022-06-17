@@ -56,5 +56,3 @@ content:
 design:
   columns: '1'
 ---
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-2e9355ac-5f6e-4b72-a84b-af1fd8a67e9a"></div>
