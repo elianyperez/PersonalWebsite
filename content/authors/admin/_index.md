@@ -2,7 +2,11 @@
 title: Eliany Perez
 role: Graduate student
 avatar_filename: avatar.jpg
-bio: I am a graduate student in the department of psychology at the University of Florida working with Dr. Steven Weisberg.
+#bio: I am a graduate student in the department of psychology at the University of Florida working with Dr. Steven Weisberg.
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
 interests:
   - Spatial navigation
   - Aging
@@ -52,16 +56,11 @@ education:
 email: ""
 superuser: true
 highlight_name: true
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
 ---
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-2e9355ac-5f6e-4b72-a84b-af1fd8a67e9a"></div>
-
 I am a first generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I am interested in examining cognitive declines associated with healthy and pathological aging. My main goal is to develop tools and interventions that can  help ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, I am conducting research on the intersection between individual differences in spatial navigation behavior and neural mechanisms of decision-making across the adult lifespan. I am using computational modeling, fMRI, and behavioral methods in an effort to achieve this goal.
 
 As a member of the latinx/e community I am also passionate about conducting research on diverse populations as well as providing guidance and training for undergraduate students from minority and underrepresented backgrounds.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2e9355ac-5f6e-4b72-a84b-af1fd8a67e9a"></div>
