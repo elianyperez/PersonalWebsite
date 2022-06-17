@@ -62,4 +62,3 @@ I am a first generation graduate student in the Department of Psychology at the 
 As a member of the latinx/e community I am also passionate about conducting research on diverse populations as well as providing guidance and training for undergraduate students from minority and underrepresented backgrounds.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-<a href="https://twitter.com/intent/tweet?button_hashtag=Eliany_Perez_&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Eliany_Perez_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
