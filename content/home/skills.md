@@ -40,12 +40,12 @@ feature:
 - description: ''
   icon: brain
   icon_pack: fas
-  name: fMRI Analysis
+  name: fMRI
 
 - description: ''
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: statistics
 
 
 
