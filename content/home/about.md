@@ -9,7 +9,7 @@ author: admin
 # Section design
 design:
   # Use a 1-column layout
-  columns: "3"
+  columns: "1"
   # Use a dark navy background with light text.
 
 ---
