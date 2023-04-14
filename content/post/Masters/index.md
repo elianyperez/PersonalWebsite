@@ -9,7 +9,7 @@ summary: Eliany successfully defended her Master's thesis titled "THE ROLE OF RI
 projects: []
 
 # Date published
-date: "2022-02-16T00:00:00Z"
+date: "2023-02-16T00:00:00Z"
 
 # Date updated
 lastmod: "2023-04-14T00:00:00Z"
