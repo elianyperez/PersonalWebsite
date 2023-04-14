@@ -1,5 +1,5 @@
 ---
-title: Dallas Aging and Cognition Conference Presentation
+title:
 subtitle:
 
 # Summary for listings and search engines
@@ -30,3 +30,6 @@ image:
 
 authors:
 - admin
+
+
+---
