@@ -3,7 +3,7 @@ title: Dallas Aging and Cognition Conference (DACC)
 subtitle:
 
 # Summary for listings and search engines
-summary: Eliany presented her work on age-related neural and behavioral shifts of navigation strategy at the Dallas Aging and Cognition Conference on February 25th, 2023.
+summary: Eliany presented her work on age-related neural and behavioral shifts of navigation strategy at the Dallas Aging and Cognition Conference on February 25th, 2023
 
 # Link this post with a project
 projects: []
@@ -22,7 +22,7 @@ featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image: DACC.jpg
+#image: DACC.jpg
   caption:
   focal_point: ""
   placement: 2
