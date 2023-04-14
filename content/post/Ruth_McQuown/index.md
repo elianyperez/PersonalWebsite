@@ -1,9 +1,9 @@
 ---
-title: Dallas Aging and Cognition Conference (DACC)
+title: New award alert!
 subtitle:
 
 # Summary for listings and search engines
-summary: Eliany presented her work on age-related neural and behavioral shifts of navigation strategy at the Dallas Aging and Cognition Conference on February 25th, 2023
+summary: Eliany received the O. Ruth McQuown Scholarship Graduate Scholarship for her commitment to fostering opportunities for underrepresented minorities in science
 
 # Link this post with a project
 projects: []
