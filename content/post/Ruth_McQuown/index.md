@@ -3,7 +3,7 @@ title: New award alert!
 subtitle:
 
 # Summary for listings and search engines
-summary: Eliany received the O. Ruth McQuown Scholarship Graduate Scholarship for her commitment to fostering opportunities for underrepresented minorities in science
+summary: Eliany received the O. Ruth McQuown Graduate Scholarship for her commitment to fostering opportunities for underrepresented minorities in science
 
 # Link this post with a project
 projects: []
