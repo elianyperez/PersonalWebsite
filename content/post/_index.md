@@ -1,15 +1,15 @@
 ---
-title: Posts
+title: News
 cms_exclude: true
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: Poster sessions
   caption: ""
-  image: ""
+  image: "static/media/DACC.jpg"
 ---
