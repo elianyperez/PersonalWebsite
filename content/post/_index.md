@@ -10,6 +10,6 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header: Poster sessions
-  caption: ""
-  image: DACC.jpg
+  #caption: ""
+  image: `DACC.jpg`
 ---
