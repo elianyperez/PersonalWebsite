@@ -1,5 +1,5 @@
 ---
-title: News
+title: Posts
 cms_exclude: true
 
 # View.
@@ -9,7 +9,7 @@ cms_exclude: true
 view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header: Poster sessions
-  #caption: ""
-  image: `DACC.jpg`
+header:
+  caption: ""
+  image: "images/DACC.jpg"
 ---
