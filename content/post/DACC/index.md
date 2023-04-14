@@ -9,7 +9,7 @@ summary: Eliany presented her work on age-related neural and behavioral shifts o
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2023-02-25T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"

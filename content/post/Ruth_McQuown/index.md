@@ -9,7 +9,7 @@ summary: Eliany received the O. Ruth McQuown Scholarship Graduate Scholarship fo
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2023-04-12T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
