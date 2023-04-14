@@ -44,6 +44,9 @@ organizations:
     url: https://neuroscience.ufl.edu/outreach/sfn-north-central-fl-chapter/
 education:
   courses:
+    - course: MS in Psychology
+      institution: University of Florida
+      year: 2023
     - course: BS in Psychology
       institution: University of Florida
       year: 2017
