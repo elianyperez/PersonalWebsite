@@ -25,8 +25,8 @@ featured: true
 image:
   caption: ''
   focal_point: "Center"
-  placement: 1
-  preview_only: true
+  placement: 3
+  preview_only: false
 
 authors:
 - admin
