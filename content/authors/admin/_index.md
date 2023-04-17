@@ -64,4 +64,4 @@ I am a first generation graduate student in the Department of Psychology at the 
 
 As a member of the latinx/e community I am also passionate about conducting research on diverse populations as well as providing guidance and training for undergraduate students from minority and underrepresented backgrounds.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
