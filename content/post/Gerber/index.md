@@ -1,6 +1,6 @@
 ---
 title: New award alert!
-subtitle:
+subtitle: Gerber Behavioral and Cognitive Neuroscience Psychology Research Award
 
 # Summary for listings and search engines
 summary: Eliany received the Gerber Behavioral and Cognitive Neuroscience Psychology Research Award for outstanding merit in contributing to the area of Behavioral and Cognitive Neuroscience!

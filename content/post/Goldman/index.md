@@ -1,6 +1,6 @@
 ---
 title: New award alert!
-subtitle:
+subtitle: Jacquelin Goldman Spring Scholarship
 
 # Summary for listings and search engines
 summary: Eliany received the Jacquelin Goldman Spring Scholarship from the Department of Psychology for her work examining risk tolerance as a domain general trait across contexts in younger and older adults.
