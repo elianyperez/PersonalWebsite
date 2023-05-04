@@ -20,4 +20,8 @@
   [plugins.inputs]
     debug = true
 
+[[redirects]]
+from = "http://elianyperez.com/"
+to = "https://elianyperez.netlify.app/"
+
 
