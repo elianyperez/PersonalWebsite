@@ -75,6 +75,12 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+      marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+  google_site_verification: 'google754350762a09672d.html'
+  baidu_site_verification: ''
+  baidu_tongji: ''
   map:
     provider: ''
     api_key: ''
