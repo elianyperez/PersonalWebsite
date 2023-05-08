@@ -24,4 +24,7 @@
 from = "http://elianyperez.com/"
 to = "https://elianyperez.netlify.app/"
 
-
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  buildDir = "."
