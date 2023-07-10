@@ -1,6 +1,6 @@
 ---
 title: J. Frank Yates Student Conference Award
-subtitle:Supporting diversity & inclusion in cognitive psychology
+subtitle: Supporting diversity & inclusion in cognitive psychology
 
 # Summary for listings and search engines
 summary: I am pleased to announce that I have been selected as a recipient of the prestigious Yates travel Award by the Psychonomic Society. This incredible honor recognizes my commitment to advancing the field of psychology and my contributions to research in cognitive science. With this award, I have been granted the opportunity to travel and present my findings at an esteemed conference in the coming months. I am profoundly grateful to the Psychonomic Society for their recognition and support, and I look forward to sharing my research with the wider scientific community.
