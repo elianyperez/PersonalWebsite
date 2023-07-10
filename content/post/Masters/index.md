@@ -3,7 +3,7 @@ title: Successful Masters Thesis defense!!!
 subtitle:
 
 # Summary for listings and search engines
-summary: Eliany successfully defended her Master's thesis titled "THE ROLE OF RISK TOLERANCE IN NAVIGATION STRATEGY DECISIONS"(Coming as a Registered Report soon!)
+summary: I'm excited to announce that I have successfully defended my Master's thesis titled "The Role of Risk Tolerance in Navigation Strategy Decisions." This research, which will be published as a Registered Report soon, delves into the intriguing connection between risk tolerance in the context of the explore/exploit tradeoff and navigation strategy. I am grateful for the guidance and support I received throughout this journey. This milestone marks an important step in my academic career, and I am excited to contribute to the scientific community with my findings. Stay tuned for the upcoming publication! 
 
 # Link this post with a project
 projects: []

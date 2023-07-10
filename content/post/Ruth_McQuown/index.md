@@ -3,7 +3,7 @@ title: O. Ruth McQuown Graduate Scholarship
 subtitle:
 
 # Summary for listings and search engines
-summary: Eliany received the O. Ruth McQuown Graduate Scholarship for her commitment to fostering opportunities for underrepresented minorities in science
+summary: I am delighted to share that I have been awarded the O. Ruth McQuown Graduate Scholarship for my dedication to fostering opportunities for underrepresented minorities in science. This prestigious scholarship recognizes my commitment to promoting diversity and inclusivity in the scientific community. I am grateful for the support and encouragement I have received throughout my journey. This scholarship will empower me to continue advocating for underrepresented voices in science and to make a positive impact.
 
 # Link this post with a project
 projects: []

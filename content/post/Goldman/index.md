@@ -3,7 +3,7 @@ title: Jacquelin Goldman Spring Scholarship
 subtitle:
 
 # Summary for listings and search engines
-summary: Eliany received the Jacquelin Goldman Spring Scholarship from the Department of Psychology for her work examining risk tolerance as a domain general trait across contexts in younger and older adults.
+summary: I am honored to have received the Jacquelin Goldman Spring Scholarship from the Department of Psychology for my research on risk tolerance as a domain general trait across contexts in younger and older adults. Grateful for this recognition and excited to continue exploring the fascinating field of psychology.
 
 # Link this post with a project
 projects: []
