@@ -20,6 +20,7 @@ social:
   - icon: twitter
     icon_pack: ai
     link: https://twitter.com/Eliany_Perez_
+    <a class="twitter-timeline" href="https://twitter.com/Eliany_Perez_?ref_src=twsrc%5Etfw">Tweets by Eliany_Perez_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=Uijyt80AAAAJ&hl=en
