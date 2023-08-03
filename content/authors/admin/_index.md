@@ -35,6 +35,7 @@ social:
   - icon: osf
     icon_pack: ai
     link: https://osf.io/xv75q/
+    
 organizations:
   - name: University of Florida
     url: https://www.ufl.edu/
