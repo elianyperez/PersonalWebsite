@@ -15,19 +15,19 @@ interests:
   - Computational modeling
 social:
   - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+    icon_pack: fa
+    mailto: '/#contact'
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fa
     link: https://twitter.com/Eliany_Perez_
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=Uijyt80AAAAJ&hl=en
   - icon: github
-    icon_pack: fab
+    icon_pack: fa
     link: https://github.com/elianyperez
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: fa
     link: https://www.linkedin.com/in/eliany-perez-19547693
   - icon: orcid
     icon_pack: ai
@@ -35,6 +35,9 @@ social:
   - icon: osf
     icon_pack: ai
     link: https://osf.io/xv75q/
+  - icon: psyarxiv
+    icon_pack: ai
+    link: https://osf.io/myprojects/#preprints    
     
 organizations:
   - name: University of Florida
