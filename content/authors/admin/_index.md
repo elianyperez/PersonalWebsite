@@ -18,16 +18,16 @@ social:
     icon_pack: fa
     mailto: '/#contact'
   - icon: twitter
-    icon_pack: fa
+    icon_pack: fab
     link: https://twitter.com/Eliany_Perez_
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=Uijyt80AAAAJ&hl=en
   - icon: github
-    icon_pack: fa
+    icon_pack: fab
     link: https://github.com/elianyperez
   - icon: linkedin
-    icon_pack: fa
+    icon_pack: fab
     link: https://www.linkedin.com/in/eliany-perez-19547693
   - icon: orcid
     icon_pack: ai
@@ -38,7 +38,7 @@ social:
   - icon: psyarxiv
     icon_pack: ai
     link: https://osf.io/myprojects/#preprints    
-    
+
 organizations:
   - name: University of Florida
     url: https://www.ufl.edu/
