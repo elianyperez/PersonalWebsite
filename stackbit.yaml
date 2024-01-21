@@ -1,0 +1,6 @@
+# stackbit.yaml
+ssgName: jekyll # The name of your SSG
+cmsName: netlifycms # The name of your CMS
+pagesDir: _pages # The directory where your markdown pages are stored
+dataDir: _data # The directory where your data files are stored
+staticDir: assets # The directory where your static files (images, js, css) are stored
