@@ -1,5 +1,5 @@
 ---
-title: Scientific Research Network on Decision Neuroscience and Aging (SRNDNA) Facing a wolf in sheep's clothing
+title: Facing a wolf in sheep's clothing
 subtitle:
 
 # Summary for listings and search engines
