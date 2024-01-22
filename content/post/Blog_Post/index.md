@@ -1,6 +1,6 @@
 ---
 title: Facing wolves in sheep's clothing: How younger and older adults differ in trust related decision-making and learning
-subtitle: https://communities.springernature.com/posts/facing-wolves-in-sheep-s-clothing-how-younger-and-older-adults-differ-in-trust-related-decision-making-and-learning
+subtitle:
 
 # Summary for listings and search engines
 summary: Check out or new blog post for our publication on the impact of facial cues on trust decisions in younger and older adults!
@@ -9,7 +9,7 @@ summary: Check out or new blog post for our publication on the impact of facial 
 projects: []
 
 # Date published
-date: "2024-01-22T00:00:00Z"
+date: "2024-01-21T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
