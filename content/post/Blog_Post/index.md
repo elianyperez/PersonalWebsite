@@ -1,5 +1,5 @@
 ---
-title: Facing wolves in sheep’s clothing: How younger and older adults differ in trust-related decision-making and learning
+title: Scientific Research Network on Decision Neuroscience and Aging (SRNDNA) Facing a wolf in sheep's clothing
 subtitle:
 
 # Summary for listings and search engines
