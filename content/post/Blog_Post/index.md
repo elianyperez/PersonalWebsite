@@ -1,6 +1,6 @@
 ---
 title: Facing a wolf in sheep's clothing
-link: https://go.nature.com/47IDHVy
+doi: https://go.nature.com/47IDHVy
 
 # Summary for listings and search engines
 summary: Check out our new blog post on how facial cues impact trust decisions.
@@ -14,7 +14,7 @@ date: "2024-01-22T00:00:00Z"
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
 
-# Is this an unpublished draft?
+# Is this an unpublished draft?z
 draft: false
 
 # Show this page in the Featured widget?
