@@ -1,5 +1,5 @@
 ---
-title: Facing a wolf in sheep's clothing
+title: Facing a wolf in sheep's clothing: How Younger and older adults differ in trust-related decision-making and learning
 subtitle:
 
 # Summary for listings and search engines
