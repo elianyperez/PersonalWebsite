@@ -33,4 +33,6 @@ authors:
 
 ---
 
-Check out the post [here](https://go.nature.com/47IDHVy).
+In our latest blog post, we delve into how facial cues impact trust decisions. This topic brings to light the intriguing interplay between appearance and perception in social interactions.
+
+For more insights, check out the post [here](https://go.nature.com/47IDHVy).
