@@ -10,12 +10,12 @@
     100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
   }
 
-  .biography-title {
+  #biography-title {
     -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
             animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
 
-  .main-content {
+  #main-content {
     -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
             animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
     -webkit-animation-delay: 100ms;
@@ -47,7 +47,7 @@
     100% {opacity: 1}
   }
 
-  .interests-div {
+  #interests-div {
     opacity: 0;
     -webkit-animation: fade-in 1s forwards;
             animation: fade-in 1s forwards;
@@ -55,7 +55,7 @@
             animation-delay: 1s;
   }
 
-  .education-div {
+  #education-div {
     opacity: 0;
     -webkit-animation: fade-in 1s forwards;
             animation: fade-in 1s forwards;
