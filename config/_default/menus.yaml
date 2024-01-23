@@ -28,12 +28,14 @@ main:
   - name: Contact
     url: '#contact'
     weight: 50
-
+  - name: Slides
+    url: '#slides'
+    weight: 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/Perez_CV.pdf
-    weight: 60
+    weight: 70
 #link a file with posters
 #  - name: Posters
 #    url: uploads/posters.pdf
