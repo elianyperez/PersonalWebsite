@@ -1,21 +1,21 @@
 ---
-title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Slides
+summary: An introduction to using Hugo Blox Builder's Slides feature.
 authors: []
-tags: ['Tutorials']
+tags: []
 categories: []
-date: '2019-02-05'
+date: '2019-02-05T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-  # Choose a code highlighting style (see Hugo docs on Chroma)
-  #   Light style: github-light. Dark style: dracula (default).
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Create slides in Markdown with Hugo Blox Builder
 
-[Wowchemy](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
+[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
 
 ---
 
@@ -73,16 +73,16 @@ $$
 Make content appear incrementally
 
 ```
-{{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
-{{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
-{{</* fragment */>}} $+ \boldsymbol\varepsilon$ {{</* /fragment */>}}
+{{%/* fragment */%}} One {{%/* /fragment */%}}
+{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
+{{%/* fragment */%}} Three {{%/* /fragment */%}}
 ```
 
 Press `Space` to play!
 
-{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
-{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
-{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
+{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
 
 ---
 
@@ -102,8 +102,7 @@ Add speaker notes to your presentation
 
 - Only the speaker can read these notes
 - Press `S` key to view
-
-{{%/* /speaker_note */%}}
+  {{%/* /speaker_note */%}}
 ```
 
 Press the `S` key to view the speaker notes!
@@ -112,8 +111,7 @@ Press the `S` key to view the speaker notes!
 
 - Only the speaker can read these notes
 - Press `S` key to view
-
-{{< /speaker_note >}}
+  {{< /speaker_note >}}
 
 ---
 
@@ -134,14 +132,14 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="boards.webp" >}}
+{{< slide background-image="/media/boards.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="boards.webp" */>}}
+{{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
