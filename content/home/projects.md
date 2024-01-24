@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = ""
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -25,25 +25,21 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-  # [[content.filter_button]]
-  #  name = "For Work"
-  #  tag = "For Work"
+   [[content.filter_button]]
+    name = "For Work"
+    tag = "For Work"
 
-  # [[content.filter_button]]
-  #  name = "For Fun"
-  #  tag = "For Fun"
+   [[content.filter_button]]
+    name = "For Fun"
+    tag = "For Fun"
 
   [[content.filter_button]]
     name = "R"
     tag = "R"
 
-  #[[content.filter_button]]
-  #  name = "D3"
-  #  tag = "D3"
-
-  #[[content.filter_button]]
-  #  name = "Mapbox"
-  #  tag = "Mapbox"
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
 
   [[content.filter_button]]
     name = "JavaScript"
@@ -51,7 +47,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
