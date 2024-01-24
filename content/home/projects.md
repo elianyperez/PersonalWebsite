@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = ""
+  page_type = "project"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,16 +26,24 @@ subtitle = ""
     tag = "*"
 
    [[content.filter_button]]
-    name = "For Work"
-    tag = "For Work"
+    name = "Peer-reviewed"
+    tag = "Peer-reviewed"
 
    [[content.filter_button]]
-    name = "For Fun"
-    tag = "For Fun"
+    name = "Preprint"
+    tag = "Preprint"
+
+   [[content.filter_button]]
+    name = "Bash"
+    tag = "Bash"
 
   [[content.filter_button]]
     name = "R"
     tag = "R"
+
+  [[content.filter_button]]
+    name = "STATA"
+    tag = "STATA"
 
   [[content.filter_button]]
     name = "Python"
