@@ -1,12 +1,12 @@
 ---
 date: “2024-1-22T00:00:00Z"
-external_link: https://github.com/elianyperez/dspfmri_code
+external_link: https://doi.org/10.31234/osf.io/s5xq9
 image:
   caption:
   focal_point: Smart
-summary: Data Wrangling, Visualization & fMRI Analysis Code with R and Shell Scripts
+summary: S-IGT examines facial trust cues' influence on decision making and learning.
 tags:
 - Preprint
 - R
-title:  Age-Related Differences in Spatial Navigation: An fMRI Study
+title:  Can you spot a wolf in sheep's clothing?
 ---
