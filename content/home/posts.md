@@ -33,6 +33,7 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: showcase
+  view: 3
   columns: '1'
+
 ---
