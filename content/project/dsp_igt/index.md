@@ -1,12 +1,13 @@
 ---
 date: “2024-1-22T00:00:00Z"
-external_link: https://doi.org/10.31234/osf.io/s5xq9
+external_link: https://pavlovia.org/elianyperez/standard-igt
 image:
   caption:
   focal_point: Smart
-summary: S-IGT examines facial trust cues' influence on decision making and learning.
+summary: Online PsychoPy Task: Access and Customize My IGT Repo
 tags:
-- Preprint
+- JavaScript
+- Python
 - R
-title:  Can you spot a wolf in sheep's clothing?
+title:  Open Source Iowa Gambling Task (IGT) on Pavlovia
 ---
