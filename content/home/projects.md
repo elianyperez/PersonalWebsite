@@ -25,13 +25,13 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-  #[[content.filter_button]]
-  #  name = "Peer-reviewed"
-  #  tag = "Peer-reviewed"
+  [[content.filter_button]]
+    name = "Peer-reviewed"
+    tag = "Peer-reviewed"
 
-  #[[content.filter_button]]
-  #  name = "Preprint"
-  #  tag = "Preprint"
+  [[content.filter_button]]
+    name = "Pre-print"
+    tag = "Pre-print"
 
   [[content.filter_button]]
     name = "Bash"
