@@ -65,8 +65,8 @@ subtitle = ""
 
 [spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-    padding: "['20px', '0', '20px', '0']"
-    
+    padding: ['20px', '0', '20px', '0']
+
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 
