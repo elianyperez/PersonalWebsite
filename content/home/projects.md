@@ -33,14 +33,6 @@ subtitle = ""
     tag = "Code"
 
   [[content.filter_button]]
-    name = "Peer-reviewed"
-    tag = "Peer-reviewed"
-
-  [[content.filter_button]]
-    name = "Pre-print"
-    tag = "Pre-print"
-
-  [[content.filter_button]]
     name = "Bash"
     tag = "Bash"
 
