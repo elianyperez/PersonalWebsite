@@ -97,3 +97,7 @@ extensions:
     enable: true
   academicons:
     enable: true
+    
+marketing:
+  analytics:
+    google_analytics: 'G-M7EL7NDJD8'
