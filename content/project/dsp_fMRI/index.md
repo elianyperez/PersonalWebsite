@@ -1,6 +1,6 @@
 ---
 date: “2024-1-22T00:00:00Z"
-external_link: https://github.com/elianyperez/dspfmri_code
+external_link:
 image:
   caption:
   focal_point: Smart
