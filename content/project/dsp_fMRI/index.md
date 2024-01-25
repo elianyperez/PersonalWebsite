@@ -4,7 +4,7 @@ external_link: https://github.com/elianyperez/dspfmri_code
 image:
   caption: 
   focal_point: 
-summary: Github repository containing example code I have used for data wrangling, visualizaition, and analyses. It also contains example Bash shell scripts for fMRI analyses
+summary: Github repository containing example code I have used for data wrangling, visualizaition, and analysis. It also contains example shell scripts for fMRI analyses.
 tags:
 - R
 - Bash
