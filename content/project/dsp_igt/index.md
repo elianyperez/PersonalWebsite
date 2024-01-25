@@ -8,5 +8,6 @@ summary: I programmed this task in PsychoPy but had a hard time finding an open 
 tags:
 - Python
 - R
+- JavaScript
 title: Open source Iowa Gambling Task (IGT) available in Pavlovia
 ---
