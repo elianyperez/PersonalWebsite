@@ -35,7 +35,7 @@ design:
   # Choose a view for the listings:
   view: Card
   columns: '1'
-#  css_style: ''
-#  css_class: ''
+  css_style: ''
+  css_class: ''
 
 ---
