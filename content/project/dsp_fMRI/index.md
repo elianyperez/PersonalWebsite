@@ -2,7 +2,7 @@
 date: “2024-1-22T00:00:00Z"
 external_link: https://github.com/elianyperez/dspfmri_code
 image:
-  caption: GitHub repo
+  caption:
   focal_point:
 summary: Data Wrangling, Visualization & fMRI Analysis Code with R and Shell Scripts
 tags:
