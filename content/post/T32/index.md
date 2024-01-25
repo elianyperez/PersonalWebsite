@@ -1,6 +1,7 @@
 ---
 title: National Institute on Aging T32 Fellowship on non-Pharmacological Interventions for Cognition in Aging, MCI, and Alzheimer’s Disease (T32 AG020499)
 subtitle:
+external_link:
 
 # Summary for listings and search engines
 summary: Exciting news! I am honored to share that I have been awarded the prestigious T32 Research Training program in Non-Pharmacological Interventions for Cognition in Aging, MCI, and Alzheimer’s Disease from the University of Florida's College of Public Health and Health Professions. This incredible opportunity will propel my career in the field of cognitive psychology, allowing me to engage in cutting-edge research and collaborate with esteemed experts. I am deeply grateful for the recognition and support.  
