@@ -8,5 +8,6 @@ summary: GitHub Repository of Data Wrangling, Visualization and fMRI Analysis Co
 tags:
 - Preprint
 - R
+- Code
 title:  An fMRI Study of Age-Related Differences in Spatial Navigation
 ---

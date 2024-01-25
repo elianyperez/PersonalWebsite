@@ -7,6 +7,8 @@ image:
 summary: S-IGT examines facial trust cues' influence on decision making and learning.
 tags:
 - Pre-print
+- STATA
 - R
+- Papers
 title:  Can you spot a wolf in sheep's clothing?
 ---

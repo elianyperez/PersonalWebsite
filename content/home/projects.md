@@ -24,6 +24,13 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+  [[content.filter_button]]
+    name = "Papers"
+    tag = "Papers"
+
+  [[content.filter_button]]
+    name = "Code"
+    tag = "Code"
 
   [[content.filter_button]]
     name = "Peer-reviewed"
