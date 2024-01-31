@@ -31,6 +31,7 @@ feature:
   icon: github
   icon_pack: fab
   name: github
+  external_link: https://github.com/elianyperez
 
 - description: ''
   icon: linux
