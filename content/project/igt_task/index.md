@@ -10,5 +10,5 @@ tags:
 - Python
 - R
 - Code
-title:  Open Source Iowa Gambling Task (IGT) on Pavlovia
+title:  Programming a Gambling task
 ---

@@ -10,5 +10,5 @@ tags:
 - R
 - Code
 - Bash
-title:  An fMRI Study of Age-Related Differences in Spatial Navigation
+title:  Aging, Navigation, and the Brain
 ---

@@ -9,5 +9,5 @@ tags:
 - Peer-reviewed
 - STATA
 - Papers
-title:  Facing wolves in sheep's clothing in later life
+title:  Social Decision Making in Older Adults
 ---
