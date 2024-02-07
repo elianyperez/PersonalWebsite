@@ -1,9 +1,9 @@
 ---
-title: Scientific Research Network on Decision Neuroscience & Aging (SRNDNA) Pilot Grant
-subtitle: https://srndna.utdallas.edu/funding/2024-pilot-grants/
+title: NVIDIA Fundamentals of Deep Learning
+subtitle:
 
 # Summary for listings and search engines
-summary: I'm honored to announce that I have been awarded a 2024 Pilot Grant by the Scientific Research Network on Decision Neuroscience and Aging at The University of Texas at Dallas. This prestigious recognition supports our project aimed at understanding the changes in risk tolerance and decision-making in relation to cognitive aging and Alzheimer’s Disease. Our multidisciplinary approach combines computational modeling, virtual reality, and cognitive psychology to explore these vital aspects. This grant not only acknowledges our team's dedication but also propels our efforts in advancing research critical for improving the lives of older adults and those with cognitive impairments.
+summary: Thrilled to announce my acceptance into the NVIDIA Deep Learning program! A huge shoutout to ColorStack UF for opening this door for me. Eagerly looking forward to enhancing my knowledge in deep learning and integrating it into my upcoming projects.
 # Link this post with a project
 projects: []
 
