@@ -8,7 +8,7 @@ summary: I'm honored to announce that I have been awarded a 2024 Pilot Grant by 
 projects: []
 
 # Date published
-date: "2023-12-21T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 
 # Date updated
 lastmod: "2023-12-21T00:00:00Z"
