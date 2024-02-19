@@ -52,30 +52,29 @@ subtitle = ""
     name = "JavaScript"
     tag = "JavaScript"
 
-    [design]
-      # Choose how many columns the section has. Valid values: 1 or 2.
-      columns = "2"  # Adjusted to "2" for a wider column.
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"  # Adjusted to "2" for a wider column.
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
 
-      # Toggle between the various page layout types.
-      #   1 = List
-      #   2 = Compact
-      #   3 = Card
-      #   5 = Showcase
-      view = 3
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
 
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows = false
+  [design.css]
+  # Center the title "Projects"
+  .title {
+    text-align: center;
+  }
 
-    [design.css]
-      # Center the title "Projects"
-      .title {
-        text-align: center;
-      }
-
-      # Center the tags
-      .taglist {
-        text-align: center;
-      }
+    # Center the tags
+    .taglist {
+      text-align: center;
+    }
 
 [design.background]
   # Apply a background color, gradient, or image.
