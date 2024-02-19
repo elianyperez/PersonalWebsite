@@ -66,16 +66,6 @@ subtitle = ""
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 
-  [design.css]  # Moved the CSS styles under the design section.
-    # Center the title "Projects"
-    .title {
-      text-align: center;
-    }
-
-    # Center the tags
-    .taglist {
-      text-align: center;
-    }
 
 [design.background]
   # Apply a background color, gradient, or image.
