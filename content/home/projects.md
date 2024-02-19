@@ -71,6 +71,10 @@ subtitle = ""
   .title {
     text-align: center;
   }
+  # Center the tags
+  .taglist {
+    text-align: center;
+  }
 
 [design.background]
   # Apply a background color, gradient, or image.
