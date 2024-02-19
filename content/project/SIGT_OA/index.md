@@ -4,7 +4,7 @@ external_link: https://fuzzy-lilac-67c.notion.site/Social-Decision-Making-in-Old
 image:
   caption:
   focal_point: Smart
-summary: Older adults struggle with trust decisions, especially with incongruent facial cues.
+summary: 
 tags:
 - Peer-reviewed
 - STATA

@@ -4,7 +4,7 @@ external_link: https://fuzzy-lilac-67c.notion.site/Can-you-spot-a-wolf-in-sheep-
 image:
   caption:
   focal_point: Smart
-summary: S-IGT examines facial trust cues' influence on decision making and learning.
+summary: 
 tags:
 - Pre-print
 - STATA

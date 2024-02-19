@@ -4,7 +4,7 @@ external_link: https://www.notion.so/Understanding-API-Blindspots-in-Software-De
 image:
   caption:
   focal_point: Smart
-summary: Exploring API blindspots from developers' perspectives to understand how they perceive and address these issues in their code.
+summary: 
 tags:
 - JavaScript
 - Papers

@@ -4,7 +4,7 @@ external_link: https://fuzzy-lilac-67c.notion.site/fMRI-Study-1fbdb923bdcb4a10b5
 image:
   caption:
   focal_point: Smart
-summary: GitHub Repository of Data Wrangling, Visualization and fMRI Analysis Code
+summary: 
 tags:
 - Preprint
 - R

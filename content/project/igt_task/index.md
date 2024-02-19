@@ -4,7 +4,7 @@ external_link: https://fuzzy-lilac-67c.notion.site/Risk-Tolerance-Study-fde49c0b
 image:
   caption:
   focal_point: Smart
-summary: Online PsychoPy task code and open source access
+summary: 
 tags:
 - JavaScript
 - Python
