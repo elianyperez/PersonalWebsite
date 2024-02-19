@@ -54,7 +54,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2" # Adjusted to "2" for a wider column.
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -65,6 +65,12 @@ subtitle = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
+
+  [design.css]
+  # Center the title "Projects"
+  .title {
+    text-align: center;
+  }
 
 [design.background]
   # Apply a background color, gradient, or image.
