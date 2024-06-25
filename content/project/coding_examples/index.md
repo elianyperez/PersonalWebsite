@@ -8,6 +8,6 @@ summary:
 tags:
 - Python
 - R
-- Bash
+- Shell
 title:  Coding samples
 ---

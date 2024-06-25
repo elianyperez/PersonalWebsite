@@ -9,6 +9,6 @@ tags:
 - Preprint
 - R
 - Code
-- Bash
+- Shell
 title:  Aging, Navigation, and the Brain
 ---

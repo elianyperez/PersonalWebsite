@@ -33,8 +33,8 @@ subtitle = ""
     tag = "Code"
 
   [[content.filter_button]]
-    name = "Bash"
-    tag = "Bash"
+    name = "Shell"
+    tag = "Shell"
 
   [[content.filter_button]]
     name = "R"
