@@ -27,6 +27,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: elianyperez@ufl.edu
+  email: elianyp17@outlook.com
 #  phone:
 #  address:
 #    street:
