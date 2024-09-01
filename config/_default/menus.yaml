@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '/about/'
+    url: '#about'
     weight: 10
 #  - name: Talks
 #    url: '#talks'
@@ -14,13 +14,13 @@ main:
     url: '/posts/'
     weight: 20
   - name: Featured
-    url: '/featured/'
+    url: '#featured'
     weight: 30
   - name: Publications
-    url: '/publications/'
+    url: '#publications'
     weight: 40
   - name: Contact
-    url: '/contact/'
+    url: '#contact'
     weight: 50
   - name: Portfolio
     url: 'https://www.beautiful.ai/player/-O5hve5DzoD8jc6jBoBZ'
