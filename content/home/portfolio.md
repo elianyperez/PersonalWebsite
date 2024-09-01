@@ -52,12 +52,6 @@ subtitle = ""
     name = "JavaScript"
     tag = "JavaScript"
 
-  [[content.filter_button]]
-    title = "Sample Presentation"
-    summary = "An embedded presentation showcasing my work."
-    content: "<iframe src='https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x' frameborder='0' width='100%' height='500' allowfullscreen></iframe>"
-
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
