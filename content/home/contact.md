@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 widget: contact
-type: page
+type: "page"
 # This file represents a page section.
 headless: true
 
