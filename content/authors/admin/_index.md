@@ -2,9 +2,7 @@
 title: "Eliany Perez"
 role: "PhD Candidate | Neuroscientist | Quantitative Researcher"
 avatar_filename: "avatar.jpg"
-bio: "I am a first-generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I specialize in examining cognitive declines associated with healthy and pathological aging. My primary goal is to develop practical tools and interventions to ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, my research focuses on the intersection of spatial navigation behavior and neural decision-making mechanisms across the adult lifespan. To achieve this, I utilize computational modeling, behavioral methods, and advanced data analysis techniques. Feel free to browse my website and portfolio for some examples of my work. 
-
-Graduating in Spring 2025 and open to work opportunities!"
+bio: ""
 
 # Section design
 design:
@@ -67,9 +65,11 @@ email: ""
 superuser: true
 title: Eliany Perez
 ---
-I am a first generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I am interested in examining cognitive declines associated with healthy and pathological aging. My main goal is to develop tools and interventions that can  help ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, I am conducting research on the intersection between individual differences in spatial navigation behavior and neural mechanisms of decision-making across the adult lifespan. I am using computational modeling, fMRI, and behavioral methods in an effort to achieve this goal.
+I am a first-generation graduate student in the Department of Psychology at the University of Florida, with a strong background in cognitive neuroscience. My passion lies in leveraging data-driven approaches to understand and address cognitive challenges associated with aging. I aim to create impactful tools and interventions that can help improve decision-making and navigation in older adults. My research under the guidance of Dr. Steven Weisberg has involved exploring how individual differences in spatial navigation relate to decision-making processes across the adult lifespan. I have honed skills in computational modeling, fMRI analysis, and behavioral research.
 
-As a member of the latinx/e community I am also passionate about conducting research on diverse populations as well as providing guidance and training for undergraduate students from minority and underrepresented backgrounds.
+As a member of the Latinx/e community, I am also committed to promoting diversity in research and creating inclusive solutions that benefit a wide range of users. I am passionate about applying my skills to projects that make a meaningful difference, especially those that enhance user experiences and address real-world challenges.
+
+UPDATE: Graduating in Spring 2025 and open to work opportunities!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
