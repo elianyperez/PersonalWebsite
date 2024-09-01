@@ -69,7 +69,7 @@ I am a first-generation graduate student in the Department of Psychology at the 
 
 As a member of the Latinx/e community, I am also committed to promoting diversity in research and creating inclusive solutions that benefit a wide range of users. I am passionate about applying my skills to projects that make a meaningful difference, especially those that enhance user experiences and address real-world challenges.
 
-UPDATE: Graduating in Spring 2025 and open to work opportunities!
+**UPDATE: Graduating in Spring 2025 and open to work opportunities!**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
