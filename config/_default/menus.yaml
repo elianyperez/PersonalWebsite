@@ -22,13 +22,6 @@ main:
   - name: Portfolio
     url: '#portfolio'
     weight: 50
-    content: |
-      <iframe src="https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x" 
-              frameborder="0" 
-              width="100%" 
-              height="500" 
-              allowfullscreen>
-      </iframe>
   - name: CV
     url: uploads/Perez_CV.pdf
     weight: 80
