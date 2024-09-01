@@ -7,10 +7,10 @@ weight = 60  # Order that this section will appear.
 
 title = "Portfolio"
 subtitle = ""
-
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -51,6 +51,9 @@ subtitle = ""
   [[content.filter_button]]
     name = "JavaScript"
     tag = "JavaScript"
+ [[content.project]]
+    title = "Full portfolio"
+    summary = "Checkout my full portfolio here [link](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x)."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
