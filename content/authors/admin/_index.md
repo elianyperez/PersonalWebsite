@@ -73,4 +73,4 @@ As a member of the latinx/e community I am also passionate about conducting rese
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-[Check out my full portfolio here:](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x).
+Check out my [portfolio](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x).
