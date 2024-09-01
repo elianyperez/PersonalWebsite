@@ -56,13 +56,8 @@ subtitle = ""
     title = "Sample Presentation"
     summary = "An embedded presentation showcasing my work."
     tags = ["Presentation"]
-    content: |
-      <iframe src="https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x" 
-              frameborder="0" 
-              width="100%" 
-              height="500" 
-              allowfullscreen>
-      </iframe>
+    content: "<iframe src='https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x' frameborder='0' width='100%' height='500' allowfullscreen></iframe>"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
