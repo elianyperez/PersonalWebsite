@@ -1,19 +1,12 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 type: "page"
-
-# This file represents a page section.
-headless: true
-
-title: Recent Posts
-subtitle:
+title: "Recent Posts"
+subtitle: ""
 
 content:
-  # Filter on criteria
   filters:
     folders:
-     post
+      - post  # This tells the widget to look inside the "post" directory
     tag: ''
     category: ''
     publication_type: ''
@@ -21,18 +14,13 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 2
-  # Choose how many pages you would like to offset by
+  count: 0  # 0 means it will display all available posts
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: desc  # Descending order to show the most recent posts first
 
 design:
-  # Choose a view for the listings:
-  view: Card
-  columns: '1'
+  view: Card  # Display posts in a card view
+  columns: '1'  # Number of columns in the layout
   css_style: ''
   css_class: ''
-
 ---
