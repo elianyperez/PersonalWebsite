@@ -19,18 +19,18 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
+  - name: Contact
+    url: '#contact'
+    weight: 50
   - name: Portfolio
     url: 'https://www.beautiful.ai/player/-O5hve5DzoD8jc6jBoBZ'
-    weight: 50
+    weight: 60
   - name: CV
     url: uploads/Perez_CV.pdf
-    weight: 80
+    weight: 70
  # - name: Skills
   #  url: '#skills'
   #  weight: 60
-  - name: Contact
-    url: '#contact'
-    weight: 70
 #  - name: Slides
 #    url: '#slides'
 #    weight: 60
