@@ -51,9 +51,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "JavaScript"
     tag = "JavaScript"
- [[content.project]]
+  [[content.project]]
     title = "Full portfolio"
     summary = "Checkout my full portfolio here [link](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x)."
+    tags = ["Python", "JavaScript"]
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
