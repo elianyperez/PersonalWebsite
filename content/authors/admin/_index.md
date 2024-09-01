@@ -5,6 +5,7 @@ avatar_filename: "avatar.jpg"
 bio: "I am a first-generation graduate student in the Department of Psychology at the University of Florida. As a cognitive neuroscientist, I specialize in examining cognitive declines associated with healthy and pathological aging. My primary goal is to develop practical tools and interventions to ease age-related cognitive deficits and improve navigation decisions among older adults. Under the mentorship of Dr. Steven Weisberg, my research focuses on the intersection of spatial navigation behavior and neural decision-making mechanisms across the adult lifespan. To achieve this, I utilize computational modeling, behavioral methods, and advanced data analysis techniques. Feel free to browse my website and portfolio for some examples of my work. 
 
 Graduating in Spring 2025 and open to work opportunities!"
+summary: "Checkout my full portfolio here: [link](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x)."
 # Section design
 design:
   # Use a 1-column layout

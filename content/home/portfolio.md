@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Portfolio"
-subtitle = "Checkout my full portfolio here: [link](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x)."
+subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
