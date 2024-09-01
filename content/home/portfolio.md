@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Portfolio"
-subtitle = ""
+subtitle = "Checkout my full portfolio here [link](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x)."
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -51,10 +51,7 @@ subtitle = ""
   [[content.filter_button]]
     name = "JavaScript"
     tag = "JavaScript"
-  [[content.project]]
-    title = "Full portfolio"
-    summary = "Checkout my full portfolio here [link](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x)."
-    tags = ["Python", "JavaScript"]
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
