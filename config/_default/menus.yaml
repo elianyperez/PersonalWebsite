@@ -20,11 +20,14 @@ main:
     url: '#publications'
     weight: 40
   - name: Portfolio
-    url: '#portfolio'
+    url: 'https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x'
     weight: 50
-  - name: Skills
-    url: '#skills'
-    weight: 60
+  - name: CV
+    url: uploads/Perez_CV.pdf
+    weight: 80
+ # - name: Skills
+  #  url: '#skills'
+  #  weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
@@ -33,9 +36,7 @@ main:
 #    weight: 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: uploads/Perez_CV.pdf
-    weight: 70
+
 #link a file with posters
 #  - name: Posters
 #    url: uploads/posters.pdf
