@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 50
   - name: Portfolio
-    url: 'https://www.beautiful.ai/player/-O5hve5DzoD8jc6jBoBZ'
+    url: '#portfolio'
     weight: 60
   - name: CV
     url: uploads/Perez_CV.pdf
