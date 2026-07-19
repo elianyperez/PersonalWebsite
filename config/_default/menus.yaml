@@ -13,24 +13,24 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 20
-  - name: Posts
-    url: '#posts'
-    weight: 30
-  - name: Featured
-    url: '#featured'
-    weight: 40
+ # - name: Posts
+  #  url: '#posts'
+   # weight: 30
+ # - name: Featured
+  #  url: '#featured'
+   # weight: 40
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 20
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 30
   - name: CV
     url: uploads/Perez_CV.pdf
-    weight: 70
+    weight: 40
  # - name: Skills
   #  url: '#skills'
-  #  weight: 60
+  #  weight: 50
 #  - name: Slides
 #    url: '#slides'
 #    weight: 60
