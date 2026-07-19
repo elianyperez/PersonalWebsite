@@ -75,4 +75,4 @@ I hold a PhD in Psychology with a specialization in Behavioral and Cognitive Neu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_Resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} View my [data analytics portfolio](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x).
+{{< icon name="download" pack="fas" >}} View my [portfolio](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x).
