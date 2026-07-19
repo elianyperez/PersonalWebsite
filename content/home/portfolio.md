@@ -52,6 +52,26 @@ subtitle = ""
     name = "JavaScript"
     tag = "JavaScript"
 
+#[[content.filter_button]]
+ # name = "All"
+  #tag = "*"
+
+#[[content.filter_button]]
+  #name = "Dashboards"
+  #tag = "Dashboards"
+
+#[[content.filter_button]]
+ # name = "Data Analysis"
+  #tag = "Data Analysis"
+
+#[[content.filter_button]]
+ # name = "Automation"
+  #tag = "Automation"
+
+#[[content.filter_button]]
+ # name = "Research"
+  #tag = "Research"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -88,22 +108,6 @@ subtitle = ""
 
 
 [advanced]
-css_style = ""
-css_class = "portfolio-wide"
-
-/* Wider portfolio section */
-.portfolio-wide {
-  .margin-auto {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  .container {
-    width: 100%;
-    max-width: 1400px;
-  }
-
-  .projects-container {
-    width: 100%;
-  }
-}
+  css_style = ""
+  css_class = "portfolio-wide"
++++

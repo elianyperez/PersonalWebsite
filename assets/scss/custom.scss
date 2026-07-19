@@ -63,3 +63,21 @@
             animation-delay: 1.5s;
   }
 }
+
+
+/* Wider portfolio section */
+.portfolio-wide {
+  .margin-auto {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .container {
+    width: 100%;
+    max-width: 1400px;
+  }
+
+  .projects-container {
+    width: 100%;
+  }
+}
