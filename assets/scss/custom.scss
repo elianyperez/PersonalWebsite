@@ -81,3 +81,21 @@
     width: 100%;
   }
 }
+
+  /* Extend portfolio filter buttons */
+  .project-toolbar,
+  .project-filters,
+  .btn-toolbar,
+  .btn-group {
+    width: 100%;
+  }
+
+  .project-filters .btn-group {
+    display: flex;
+  }
+
+  .project-filters .btn {
+    flex: 1 1 0;
+    text-align: center;
+  }
+}
