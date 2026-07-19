@@ -80,7 +80,6 @@
   .projects-container {
     width: 100%;
   }
-}
 
   /* Extend portfolio filter buttons */
   .project-toolbar,
@@ -97,11 +96,5 @@
   .project-filters .btn {
     flex: 1 1 0;
     text-align: center;
-  }
-}
-
-@media (max-width: 768px) {
-  .portfolio-wide .project-filters .btn {
-    flex: 1 1 33%;
   }
 }
