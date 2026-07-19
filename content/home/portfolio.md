@@ -88,9 +88,22 @@ subtitle = ""
 
 
 [advanced]
- # Custom CSS.
- css_style = ""
+css_style = ""
+css_class = "portfolio-wide"
 
- # CSS class.
- css_class = ""
-+++
+/* Wider portfolio section */
+.portfolio-wide {
+  .margin-auto {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .container {
+    width: 100%;
+    max-width: 1400px;
+  }
+
+  .projects-container {
+    width: 100%;
+  }
+}
