@@ -51,7 +51,7 @@ education:
     - course: PhD in Psychology, Behavioral and Cognitive Neuroscience
       institution: University of Florida
       year: 2025
-    - course: MS in Psychology
+    - course: MS in Psychology, Behavioral and Cognitive Neuroscience
       institution: University of Florida
       year: 2023
     - course: BS in Psychology
