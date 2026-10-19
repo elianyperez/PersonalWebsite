@@ -1,49 +1,34 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Eliany Perez website
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
+A standalone Hugo website with shared styling for the homepage, projects, publications, news, tags, and error page. No theme modules or Go installation are needed. Original license notices remain in LICENSE.md.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## Install into your existing repository
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+1. Keep your existing PersonalWebsite folder and its .git directory.
+2. Back up the existing config and layouts folders outside the repository, then remove those two old folders from PersonalWebsite. They must be replaced completely, not merged.
+3. Copy everything inside PersonalWebsite_Revamped from this ZIP into PersonalWebsite, replacing existing files.
+4. In Git Bash inside PersonalWebsite, run:
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+```bash
+git status
+git add -A
+git diff --cached --stat
+git commit -m "Redesign full portfolio website and add contact form"
+git push
+```
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+Review the staged file list before committing. The deletions in config/layouts replace the former theme setup. No Git metadata is included in the ZIP.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
+## Contact form activation
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+Enable form detection in your existing Netlify site and deploy this version. Under Forms > Submission notifications, add your receiving email address. The intended recipient is elianyp17@outlook.com. Submit a real test message and verify it appears in Forms and arrives by email before considering the form ready.
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+The form accepts name, email, topic (research/collaboration, freelance/contract, or general contact), and message. It includes a honeypot and clear success/error feedback. Live delivery is not verified.
 
-## We ask you, humbly, to support this open source movement
+## Content
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Edit content/project, content/publication, and content/post for individual pages. Homepage copy is in layouts/index.html; shared styles are in static/css/site.css. Shared header/footer live in layouts/partials. Existing photos, PDFs, project links, and research content are preserved. Original demo/widget content is retained outside the build in archive-original. Old unused assets and reference files are retained.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## Validation
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-## Latest news
-<!--START_SECTION:news-->
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
-<!--END_SECTION:news-->
+Full build passed with Hugo Extended 0.91.2. Local link checks passed across 43 HTML pages; inline JavaScript syntax checks passed. Browser visual QA, external link availability, and live form delivery were not verified. No GitHub or live-site changes were made.

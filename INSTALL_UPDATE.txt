@@ -1,0 +1,15 @@
+PORTFOLIO + DARK MODE UPDATE
+
+Copy the layouts, static, and content folders into the root of your existing website repository. Replace matching files and keep .git untouched. This update includes the seven portfolio case studies as well as dark mode, so you do not need the earlier portfolio update ZIP.
+
+Then run in Git Bash:
+git add layouts static content/project
+git diff --cached --stat
+git commit -m "Improve portfolio and add dark mode"
+git push
+
+Dark mode: navigation toggle on every page; follows the device preference initially; remembers an explicit selection; synchronizes across tabs. Storage restrictions do not prevent switching. The preference is applied before page content to avoid a light flash.
+
+Build and automated theme behavior tests passed. Visual browser review and live form delivery remain unverified. No remote/live changes were made.
+
+For content sources and limitations, see PORTFOLIO_README.txt. Any Netlify-injected Twitter feed must be removed through Netlify snippet settings.

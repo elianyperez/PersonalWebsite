@@ -71,8 +71,8 @@ At TEACH.org, I develop dashboards, data workflows, and outcome analyses that he
 
 I hold a PhD in Psychology with a specialization in Behavioral and Cognitive Neuroscience from the University of Florida. My research training brings additional strength in quantitative methods, experimental design, computational modeling, and communicating complex findings to technical and nontechnical audiences.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+Download my [CV](/uploads/Perez_CV.pdf).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Perez_Resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
+Download my [Resume](/uploads/Perez_Resume.pdf).
 
-{{< icon name="download" pack="fas" >}} View my [Portfolio](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x).
+View my [Portfolio](https://www.beautiful.ai/player/-O5hmunN0yY1fiwYYl2x).
