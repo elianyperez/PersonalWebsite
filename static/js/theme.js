@@ -1,6 +1,7 @@
 (function () {
   'use strict';
   var root = document.documentElement;
+  var spanish = root.lang === 'es';
   var preference = null;
   var media = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
   try { preference = localStorage.getItem('eliany-theme'); } catch (error) {}
@@ -12,8 +13,8 @@
     if (button) {
       button.hidden = false;
       button.setAttribute('aria-pressed', String(theme === 'dark'));
-      button.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
-      button.textContent = theme === 'dark' ? '☀ Light' : '☾ Dark';
+      button.setAttribute('aria-label', theme === 'dark' ? (spanish ? 'Activar modo claro' : 'Switch to light mode') : (spanish ? 'Activar modo oscuro' : 'Switch to dark mode'));
+      button.textContent = theme === 'dark' ? (spanish ? '☀ Claro' : '☀ Light') : (spanish ? '☾ Oscuro' : '☾ Dark');
     }
   }
   apply(preference || (media && media.matches ? 'dark' : 'light'));

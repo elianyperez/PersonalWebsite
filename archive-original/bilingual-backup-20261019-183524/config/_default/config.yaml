@@ -1,0 +1,21 @@
+title: Eliany Perez
+baseURL: https://elianyperez.netlify.app/
+languageCode: en-us
+defaultContentLanguage: en
+enableRobotsTXT: true
+disableHugoGeneratorInject: true
+summaryLength: 35
+paginate: 12
+outputs:
+  home: [HTML, RSS]
+  section: [HTML, RSS]
+taxonomies:
+  tag: tags
+  category: categories
+permalinks:
+  tags: /tag/:slug/
+  categories: /category/:slug/
+markup:
+  goldmark:
+    renderer:
+      unsafe: false

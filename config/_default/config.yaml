@@ -19,3 +19,16 @@ markup:
   goldmark:
     renderer:
       unsafe: false
+
+defaultContentLanguageInSubdir: false
+languages:
+  en:
+    languageName: English
+    languageCode: en-us
+    contentDir: content
+    weight: 1
+  es:
+    languageName: Español
+    languageCode: es
+    contentDir: content-es
+    weight: 2
