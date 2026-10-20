@@ -1,4 +1,4 @@
 ---
 title: Portafolio
 ---
-Explora proyectos de investigación, programación y comunicación científica. Cada caso explica la pregunta, mi contribución y dónde encontrar más información.
+Proyectos de análisis de datos, mejora de procesos, investigación y programación. Conoce qué había que resolver, el trabajo que hice y cómo se relacionan sus distintas partes.

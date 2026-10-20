@@ -1,8 +1,8 @@
 ---
 title: "Eliany Perez"
-role: "Data Analyst | Program Evaluation | Quantitative Research"
+role: "Analista de datos | Investigadora | Mejora de procesos"
 avatar_filename: "avatar.jpg"
-bio: "Data analyst transforming complex data into clear insights, scalable tools, and evidence-based recommendations."
+bio: "Conecto datos, herramientas y formas de trabajo para ayudar a los equipos a entender sus resultados."
 
 # Section design
 design:
@@ -19,9 +19,6 @@ social:
   - icon: envelope
     icon_pack: fa
     link: "/#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Eliany_Perez_
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Uijyt80AAAAJ&hl=en
@@ -30,7 +27,7 @@ social:
     link: https://github.com/elianyperez
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/eliany-perez-19547693
+    link: https://www.linkedin.com/in/eliany-perez
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5443-7652
@@ -65,8 +62,8 @@ email: ""
 superuser: true
 ---
 
-Soy Eliany Perez, analista de datos e investigadora cuantitativa con formación doctoral en Neurociencia Conductual y Cognitiva en la Universidad de Florida.
+Soy Eliany, analista de datos con un doctorado en Psicología de la Universidad de Florida y formación en neurociencia conductual y cognitiva. Me interesa cómo se conectan los datos, las herramientas y las personas, desde que se recopila la información hasta que se utiliza para tomar decisiones.
 
-En TEACH.org, desarrollo paneles, integro datos y analizo resultados para ayudar a los equipos a comprender su impacto.
+En TEACH.org, trabajo con dashboards, cruce de datos, análisis de resultados y procesos de reporte. Busco que el proceso completo sea más claro y fácil de mantener, incluyendo las definiciones, los pasos entre equipos y las tareas manuales.
 
-[Currículum profesional (en inglés)](/uploads/Perez_Resume.pdf) · [CV académico (en inglés)](/uploads/Perez_CV.pdf)
+[Currículum (en inglés)](/uploads/Perez_Resume.pdf) · [CV académico (en inglés)](/uploads/Perez_CV.pdf)
